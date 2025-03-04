@@ -16,7 +16,7 @@
 ---
 
 ## Professional Summary
-Senior Android Developer, **10+ years experience**, focused on **performance optimization**, **low-level system APIs**, and **modular/scalable architectures**. Specialized in **Android system apps, AOSP, CTS, CI/CD, and security**.  
+Princical Android Developer, **10+ years experience**, focused on **performance optimization**, **low-level system APIs**, and **modular/scalable architectures**. Specialized in **Android system apps, AOSP, CTS, CI/CD, and security**.  
 
 ---
 
